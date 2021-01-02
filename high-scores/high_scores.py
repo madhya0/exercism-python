@@ -1,5 +1,5 @@
 def latest(scores):
-    pass
+    print('prueba')
 
 
 def personal_best(scores):
