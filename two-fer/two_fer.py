@@ -5,5 +5,5 @@ def two_fer(nombre = ""):
         return "One for Bob, one for me."
     elif nombre == "Alice":
         return'One for Alice, one for me.'
-    elif nombre == "":
+    else:
         return "One for you, one for me."
